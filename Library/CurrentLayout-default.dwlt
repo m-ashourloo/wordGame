@@ -19,9 +19,9 @@ MonoBehaviour:
     width: 1920
     height: 1007
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Game
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -122,7 +122,7 @@ MonoBehaviour:
   m_MinSize: {x: 708, y: 492}
   m_MaxSize: {x: 18003, y: 14042}
   vertical: 0
-  controlID: 17
+  controlID: 134
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 432, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 1
-  controlID: 18
+  controlID: 42
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -200,7 +200,7 @@ MonoBehaviour:
   m_MinSize: {x: 432, y: 271}
   m_MaxSize: {x: 14002, y: 10021}
   vertical: 0
-  controlID: 88
+  controlID: 90
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -320,7 +320,7 @@ MonoBehaviour:
   m_UseMipMap: 0
   m_VSyncEnabled: 1
   m_Gizmos: 0
-  m_Stats: 1
+  m_Stats: 0
   m_SelectedSizes: 0600000000000000000000000d000000000000000000000000000000000000000000000000000000
   m_ZoomArea:
     m_HRangeLocked: 0
@@ -406,9 +406,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -2.1606324, y: -1.400741, z: -24.79186}
+    m_Target: {x: -21.8201, y: 370.33157, z: -16.886366}
     speed: 2
-    m_Value: {x: -2.1606324, y: -1.400741, z: -24.79186}
+    m_Value: {x: -21.8201, y: 370.33157, z: -16.886366}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -459,9 +459,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 3.7068353
+    m_Target: 184.14745
     speed: 2
-    m_Value: 3.7068353
+    m_Value: 184.14745
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -539,9 +539,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 285e0000
-      m_LastClickedID: 0
-      m_ExpandedIDs: 04e5ffff52e5ffffcae5ffffd8e5ffffe6e5fffff4e5ffff02e6ffff68e6ffff26f3ffff3cf3ffff56f4ffffcaf4ffffecf6fffff6f6ffff0ef7ffff14f7ffff1af7ffff20f7ffff26f7ffff34faffff
+      m_SelectedIDs: 82bfffff
+      m_LastClickedID: -16510
+      m_ExpandedIDs: b0dcffffc8f9ffff46fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -603,7 +603,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/2DCarCompletePack/02RaceCar/Sprite/CAR
+    - Assets/Fonts
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 0
@@ -617,7 +617,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 31}
     m_SelectedIDs: 98500000
     m_LastClickedID: 20632
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000184300001a4300001c4300001e43000020430000224300002443000026430000284300002a4300002c4300002e43000030430000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -645,23 +645,23 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: ffffffff00000000fa5b0000245c0000525c0000545c0000585c0000645c0000665c00006a5c00006c5c0000705c0000745c0000785c0000387f0000
+    m_ExpandedIDs: ffffffff00000000184300001c4300001e430000224300002443000026430000284300002a4300002c4300002e430000ea560000ee560000f856000092570000485800007e590000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: Fa
+      m_OriginalName: Fa
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 24970
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 9}
+      m_ClientGUIView: {fileID: 10}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}

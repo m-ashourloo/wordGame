@@ -5,7 +5,17 @@
       "ProjectGuid": "ab3da03e-db9b-a50c-7087-275bb97cf95d",
       "DisplayName": "Assembly-CSharp",
       "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "84933407-79fc-0cfb-3eb7-7f7c1a7eb7d8": {
+      "ProjectGuid": "84933407-79fc-0cfb-3eb7-7f7c1a7eb7d8",
+      "DisplayName": "RTLTMPro",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }
